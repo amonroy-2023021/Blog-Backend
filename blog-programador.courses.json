@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "681d5eb917a2b8ad01ef93fb"
+  },
+  "CurseName": "Practica Supervisada",
+  "createdAt": {
+    "$date": "2025-05-09T01:47:37.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T01:47:37.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682127207808b61fcc8ff3b3"
+  },
+  "CurseName": "Taller",
+  "createdAt": {
+    "$date": "2025-05-11T22:39:28.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-11T22:39:28.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68216298b544200da643ecb2"
+  },
+  "CurseName": "Tecnologia",
+  "createdAt": {
+    "$date": "2025-05-12T02:53:12.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-12T02:53:12.201Z"
+  }
+}]

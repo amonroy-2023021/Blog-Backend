@@ -5,12 +5,12 @@ const postSchema = new Schema(
     title: {
       type: String,
       required: [true, "Title is required"],
-      maxLength: [50, "Title cannot exceed 50 characters"],
+      maxLength: [150, "Title cannot exceed 50 characters"],
     },
     description: {
       type: String,
       required: [true, "Description is required"],
-      maxLength: [500, "Description cannot exceed 500 characters"],
+      maxLength: [2500, "Description cannot exceed 500 characters"],
     },
     course: {
       type: Schema.Types.ObjectId,

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68213cea31742cd17b3651d3"
+  },
+  "username": "ale",
+  "content": "uuuu mal ahi amigo",
+  "post": {
+    "$oid": "68212b7665d54fec2d188eea"
+  },
+  "createdAt": {
+    "$date": "2025-05-12T00:12:26.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-12T00:12:26.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68213e0f31742cd17b3651e6"
+  },
+  "username": "Ale",
+  "content": "Tu puedes amigooo",
+  "post": {
+    "$oid": "68212b7665d54fec2d188eea"
+  },
+  "createdAt": {
+    "$date": "2025-05-12T00:17:19.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-12T00:17:19.373Z"
+  }
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "68212b7665d54fec2d188eea"
+  },
+  "title": "Actualizacion",
+  "description": "Ya es domingo y no he estudiado nada muchachoooooooooos WUUUUUUUUUU!!!!!",
+  "course": {
+    "$oid": "682127207808b61fcc8ff3b3"
+  },
+  "comments": [
+    {
+      "$oid": "68213cea31742cd17b3651d3"
+    },
+    {
+      "$oid": "68213e0f31742cd17b3651e6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-11T22:57:58.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-12T00:17:19.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682163e4ef473b53f050538f"
+  },
+  "title": "Desarrollo de una App para Almacenadora con MERN y SCRUM",
+  "description": "Estamos desarrollando una aplicación web para la gestión de una almacenadora usando el stack MERN y metodología SCRUM. El sistema permitirá registrar productos, controlar movimientos de inventario, gestionar proveedores y generar informes. Nos organizamos en sprints semanales, con entregas constantes y trabajo colaborativo para construir una herramienta útil y escalable.",
+  "course": {
+    "$oid": "681d5eb917a2b8ad01ef93fb"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2025-05-12T02:58:44.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-12T02:58:44.847Z"
+  }
+}]
